@@ -16,6 +16,8 @@ This template demonstrates how to make a simple HTTP API with Node.js running on
 
 This template does not include any kind of persistence (database). For more advanced examples, check out the [serverless/examples repository](https://github.com/serverless/examples/) which includes Typescript, Mongo, DynamoDB and other examples.
 
+The serverless.yml file is not included, so you will need to create it as a separate file and set up the corresponding services with your AWS credentials.
+
 ## Usage
 
 ### Deployment
